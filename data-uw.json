@@ -1,0 +1,700 @@
+[
+  {
+    "exam": "African American Studies",
+    "minScore": 3,
+    "courses": [{"code": "AFRAM 102", "name": "African American Studies", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "African American Studies",
+    "minScore": 4,
+    "courses": [{"code": "AFRAM 102", "name": "African American Studies", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "African American Studies",
+    "minScore": 5,
+    "courses": [{"code": "AFRAM 102", "name": "African American Studies", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Arabic Language",
+    "minScore": 3,
+    "courses": [{"code": "ARABIC 201", "name": "Third-Year Arabic I", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Arabic Language",
+    "minScore": 4,
+    "courses": [
+      {"code": "ARABIC 201", "name": "Third-Year Arabic I", "credits": 5},
+      {"code": "ARABIC 202", "name": "Third-Year Arabic II", "credits": 5}
+    ],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Arabic Language",
+    "minScore": 5,
+    "courses": [
+      {"code": "ARABIC 201", "name": "Third-Year Arabic I", "credits": 5},
+      {"code": "ARABIC 202", "name": "Third-Year Arabic II", "credits": 5},
+      {"code": "ARABIC 203", "name": "Third-Year Arabic III", "credits": 5}
+    ],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Art History",
+    "minScore": 3,
+    "courses": [{"code": "ART H 100", "name": "Art History", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Art History",
+    "minScore": 4,
+    "courses": [{"code": "ART H 100", "name": "Art History", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Art History",
+    "minScore": 5,
+    "courses": [{"code": "ART H 100", "name": "Art History", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: Drawing",
+    "minScore": 3,
+    "courses": [{"code": "ART 102", "name": "Studio Art - Drawing", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: Drawing",
+    "minScore": 4,
+    "courses": [{"code": "ART 102", "name": "Studio Art - Drawing", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: Drawing",
+    "minScore": 5,
+    "courses": [{"code": "ART 102", "name": "Studio Art - Drawing", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 2D Design",
+    "minScore": 3,
+    "courses": [{"code": "ART 103", "name": "Studio Art - 2D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 2D Design",
+    "minScore": 4,
+    "courses": [{"code": "ART 103", "name": "Studio Art - 2D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 2D Design",
+    "minScore": 5,
+    "courses": [{"code": "ART 103", "name": "Studio Art - 2D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 3D Design",
+    "minScore": 3,
+    "courses": [{"code": "ART 104", "name": "Studio Art - 3D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 3D Design",
+    "minScore": 4,
+    "courses": [{"code": "ART 104", "name": "Studio Art - 3D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Studio Art: 3D Design",
+    "minScore": 5,
+    "courses": [{"code": "ART 104", "name": "Studio Art - 3D Design", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Biology",
+    "minScore": 3,
+    "courses": [{"code": "BIOL 161", "name": "Biology", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Biology",
+    "minScore": 4,
+    "courses": [
+      {"code": "BIOL 161", "name": "Biology I", "credits": 5},
+      {"code": "BIOL 162", "name": "Biology II", "credits": 5}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Biology",
+    "minScore": 5,
+    "courses": [
+      {"code": "BIOL 161", "name": "Biology I", "credits": 5},
+      {"code": "BIOL 162", "name": "Biology II", "credits": 5}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Calculus AB",
+    "minScore": 3,
+    "courses": [{"code": "MATH 124", "name": "Calculus I", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Calculus AB",
+    "minScore": 4,
+    "courses": [{"code": "MATH 124", "name": "Calculus I", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Calculus AB",
+    "minScore": 5,
+    "courses": [
+      {"code": "MATH 124", "name": "Calculus I", "credits": 5},
+      {"code": "MATH 125", "name": "Calculus II", "credits": 5}
+    ],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Calculus BC",
+    "minScore": 3,
+    "courses": [{"code": "MATH 124", "name": "Calculus I", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Calculus BC",
+    "minScore": 4,
+    "courses": [
+      {"code": "MATH 124", "name": "Calculus I", "credits": 5},
+      {"code": "MATH 125", "name": "Calculus II", "credits": 5}
+    ],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Calculus BC",
+    "minScore": 5,
+    "courses": [
+      {"code": "MATH 124", "name": "Calculus I", "credits": 5},
+      {"code": "MATH 125", "name": "Calculus II", "credits": 5}
+    ],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Precalculus",
+    "minScore": 3,
+    "courses": [{"code": "MATH 120", "name": "Precalculus", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Precalculus",
+    "minScore": 4,
+    "courses": [{"code": "MATH 120", "name": "Precalculus", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Precalculus",
+    "minScore": 5,
+    "courses": [{"code": "MATH 120", "name": "Precalculus", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Chemistry",
+    "minScore": 3,
+    "courses": [{"code": "CHEM 142", "name": "General Chemistry I", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Chemistry",
+    "minScore": 4,
+    "courses": [
+      {"code": "CHEM 142", "name": "General Chemistry I", "credits": 5},
+      {"code": "CHEM 152", "name": "General Chemistry II", "credits": 5}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Chemistry",
+    "minScore": 5,
+    "courses": [
+      {"code": "CHEM 142", "name": "General Chemistry I", "credits": 5},
+      {"code": "CHEM 152", "name": "General Chemistry II", "credits": 5},
+      {"code": "CHEM 162", "name": "General Chemistry III", "credits": 5}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Chinese Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "CHIN 133", "name": "Third-Year Chinese", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Chinese Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "CHIN 231", "name": "Fourth-Year Chinese I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Chinese Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "CHIN 232", "name": "Fourth-Year Chinese II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Computer Science A",
+    "minScore": 3,
+    "courses": [{"code": "CSE 121", "name": "Introduction to Computer Programming", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Computer Science A",
+    "minScore": 4,
+    "courses": [{"code": "CSE 121", "name": "Introduction to Computer Programming", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Computer Science A",
+    "minScore": 5,
+    "courses": [
+      {"code": "CSE 121", "name": "Introduction to Computer Programming", "credits": 5},
+      {"code": "CSE 122", "name": "Introduction to Computer Programming II", "credits": 5}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Computer Science Principles",
+    "minScore": 3,
+    "courses": [{"code": "CSE 120", "name": "Computer Science Principles", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Computer Science Principles",
+    "minScore": 4,
+    "courses": [{"code": "CSE 120", "name": "Computer Science Principles", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Computer Science Principles",
+    "minScore": 5,
+    "courses": [{"code": "CSE 120", "name": "Computer Science Principles", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Economics: Microeconomics",
+    "minScore": 4,
+    "courses": [{"code": "ECON 200", "name": "Introduction to Microeconomics", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Economics: Macroeconomics",
+    "minScore": 4,
+    "courses": [{"code": "ECON 201", "name": "Introduction to Macroeconomics", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "English Language & Composition",
+    "minScore": 3,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "English Language & Composition",
+    "minScore": 4,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "English Language & Composition",
+    "minScore": 5,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "English Literature & Composition",
+    "minScore": 3,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "English Literature & Composition",
+    "minScore": 4,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "English Literature & Composition",
+    "minScore": 5,
+    "courses": [{"code": "ENGL 106", "name": "Composition", "credits": 5}],
+    "requirement": "C"
+  },
+  {
+    "exam": "Environmental Science",
+    "minScore": 3,
+    "courses": [{"code": "ENVIR 100", "name": "Environmental Science", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Environmental Science",
+    "minScore": 4,
+    "courses": [{"code": "ENVIR 100", "name": "Environmental Science", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Environmental Science",
+    "minScore": 5,
+    "courses": [{"code": "ENVIR 100", "name": "Environmental Science", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "European History",
+    "minScore": 3,
+    "courses": [{"code": "HSTEU 113", "name": "European History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "European History",
+    "minScore": 4,
+    "courses": [{"code": "HSTEU 113", "name": "European History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "European History",
+    "minScore": 5,
+    "courses": [{"code": "HSTEU 113", "name": "European History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "French Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "FREN 133", "name": "Third-Year French", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "French Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "FREN 231", "name": "Fourth-Year French I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "French Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "FREN 232", "name": "Fourth-Year French II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "German Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "GERM 133", "name": "Third-Year German", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "German Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "GERM 231", "name": "Fourth-Year German I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "German Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "GERM 232", "name": "Fourth-Year German II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Government & Politics: Comparative",
+    "minScore": 4,
+    "courses": [{"code": "POL S 204", "name": "Comparative Politics", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Government & Politics: U.S.",
+    "minScore": 4,
+    "courses": [{"code": "POL S 202", "name": "American Politics", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Human Geography",
+    "minScore": 4,
+    "courses": [{"code": "GEOG 100", "name": "Human Geography", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Italian Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "ITAL 133", "name": "Third-Year Italian", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Italian Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "ITAL 231", "name": "Fourth-Year Italian I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Italian Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "ITAL 232", "name": "Fourth-Year Italian II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Japanese Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "JAPAN 133", "name": "Third-Year Japanese", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Japanese Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "JAPAN 231", "name": "Fourth-Year Japanese I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Japanese Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "JAPAN 232", "name": "Fourth-Year Japanese II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Latin",
+    "minScore": 3,
+    "courses": [{"code": "LATIN 133", "name": "Third-Year Latin", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Latin",
+    "minScore": 4,
+    "courses": [{"code": "LATIN 231", "name": "Fourth-Year Latin I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Latin",
+    "minScore": 5,
+    "courses": [{"code": "LATIN 232", "name": "Fourth-Year Latin II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Music Theory",
+    "minScore": 3,
+    "courses": [{"code": "MUSIC 116", "name": "Music Theory I", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Music Theory",
+    "minScore": 4,
+    "courses": [
+      {"code": "MUSIC 116", "name": "Music Theory I", "credits": 5},
+      {"code": "MUSIC 117", "name": "Music Theory II", "credits": 5}
+    ],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Music Theory",
+    "minScore": 5,
+    "courses": [
+      {"code": "MUSIC 116", "name": "Music Theory I", "credits": 5},
+      {"code": "MUSIC 117", "name": "Music Theory II", "credits": 5}
+    ],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Physics 1",
+    "minScore": 3,
+    "courses": [{"code": "PHYS 114", "name": "General Physics I", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics 1",
+    "minScore": 4,
+    "courses": [
+      {"code": "PHYS 114", "name": "General Physics I", "credits": 4},
+      {"code": "PHYS 117", "name": "General Physics Lab I", "credits": 4}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics 1",
+    "minScore": 5,
+    "courses": [
+      {"code": "PHYS 114", "name": "General Physics I", "credits": 4},
+      {"code": "PHYS 117", "name": "General Physics Lab I", "credits": 4}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics 2",
+    "minScore": 3,
+    "courses": [{"code": "PHYS 115", "name": "General Physics II", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics 2",
+    "minScore": 4,
+    "courses": [
+      {"code": "PHYS 115", "name": "General Physics II", "credits": 4},
+      {"code": "PHYS 118", "name": "General Physics Lab II", "credits": 4}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics 2",
+    "minScore": 5,
+    "courses": [
+      {"code": "PHYS 115", "name": "General Physics II", "credits": 4},
+      {"code": "PHYS 118", "name": "General Physics Lab II", "credits": 4}
+    ],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics C: Mechanics",
+    "minScore": 4,
+    "courses": [{"code": "PHYS 121", "name": "Mechanics", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Physics C: Electricity & Magnetism",
+    "minScore": 4,
+    "courses": [{"code": "PHYS 122", "name": "Electromagnetism", "credits": 5}],
+    "requirement": "NW"
+  },
+  {
+    "exam": "Psychology",
+    "minScore": 3,
+    "courses": [{"code": "PSYCH 101", "name": "Introduction to Psychology", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Psychology",
+    "minScore": 4,
+    "courses": [{"code": "PSYCH 101", "name": "Introduction to Psychology", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Psychology",
+    "minScore": 5,
+    "courses": [{"code": "PSYCH 101", "name": "Introduction to Psychology", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "Research",
+    "minScore": 3,
+    "courses": [{"code": "UW 115", "name": "Research", "credits": 5}]
+  },
+  {
+    "exam": "Research",
+    "minScore": 4,
+    "courses": [{"code": "UW 115", "name": "Research", "credits": 5}]
+  },
+  {
+    "exam": "Research",
+    "minScore": 5,
+    "courses": [{"code": "UW 115", "name": "Research", "credits": 5}]
+  },
+  {
+    "exam": "Seminar",
+    "minScore": 3,
+    "courses": [{"code": "UW 116", "name": "Seminar", "credits": 5}]
+  },
+  {
+    "exam": "Seminar",
+    "minScore": 4,
+    "courses": [{"code": "UW 116", "name": "Seminar", "credits": 5}]
+  },
+  {
+    "exam": "Seminar",
+    "minScore": 5,
+    "courses": [{"code": "UW 116", "name": "Seminar", "credits": 5}]
+  },
+  {
+    "exam": "Spanish Language & Culture",
+    "minScore": 3,
+    "courses": [{"code": "SPAN 133", "name": "Third-Year Spanish", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Spanish Language & Culture",
+    "minScore": 4,
+    "courses": [{"code": "SPAN 231", "name": "Fourth-Year Spanish I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Spanish Language & Culture",
+    "minScore": 5,
+    "courses": [{"code": "SPAN 232", "name": "Fourth-Year Spanish II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Spanish Literature & Culture",
+    "minScore": 3,
+    "courses": [{"code": "SPAN 133", "name": "Third-Year Spanish", "credits": 5}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Spanish Literature & Culture",
+    "minScore": 4,
+    "courses": [{"code": "SPAN 231", "name": "Fourth-Year Spanish I", "credits": 10}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Spanish Literature & Culture",
+    "minScore": 5,
+    "courses": [{"code": "SPAN 232", "name": "Fourth-Year Spanish II", "credits": 15}],
+    "requirement": "VLPA"
+  },
+  {
+    "exam": "Statistics",
+    "minScore": 3,
+    "courses": [{"code": "STAT 220", "name": "Introduction to Statistics", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Statistics",
+    "minScore": 4,
+    "courses": [{"code": "STAT 220", "name": "Introduction to Statistics", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "Statistics",
+    "minScore": 5,
+    "courses": [{"code": "STAT 220", "name": "Introduction to Statistics", "credits": 5}],
+    "requirement": "QSR"
+  },
+  {
+    "exam": "U.S. History",
+    "minScore": 3,
+    "courses": [{"code": "HSTAA 101", "name": "U.S. History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "U.S. History",
+    "minScore": 4,
+    "courses": [{"code": "HSTAA 101", "name": "U.S. History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "U.S. History",
+    "minScore": 5,
+    "courses": [{"code": "HSTAA 101", "name": "U.S. History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "World History",
+    "minScore": 3,
+    "courses": [{"code": "HSTAS 102", "name": "World History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "World History",
+    "minScore": 4,
+    "courses": [{"code": "HSTAS 102", "name": "World History", "credits": 5}],
+    "requirement": "I&S"
+  },
+  {
+    "exam": "World History",
+    "minScore": 5,
+    "courses": [{"code": "HSTAS 102", "name": "World History", "credits": 5}],
+    "requirement": "I&S"
+  }
+]

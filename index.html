@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AP Credit Calculator - UW & UC Schools</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="uw-header">
+    <div class="header-content">
+      <h1>AP Credit Calculator</h1>
+      <p class="subtitle" id="subtitle-text">University of Washington, Seattle</p>
+      <p class="disclaimer" id="disclaimer-text">Note: I am not affiliated with the University of Washington. All data has been sourced from the <a href="https://admit.washington.edu/apply/transfer/exams-for-credit/ap/" target="_blank">University of Washington</a> page for AP exams.</p>
+    </div>
+  </header>
+
+  <nav class="school-tabs">
+    <button class="tab-btn active" data-school="uw">UW Seattle</button>
+    <button class="tab-btn" data-school="uc">UC Schools</button>
+  </nav>
+
+  <main>
+    <section class="input-section card">
+      <h2>Add Your AP Exams</h2>
+      <p class="instructions">Type an exam name (autocomplete will suggest matches) and enter your score (1-5). Add as many exams as you need.</p>
+      
+      <div id="test-entries">
+        <!-- Dynamic test rows will be inserted here -->
+      </div>
+
+      <div class="actions">
+        <button id="add-test" class="btn-primary">+ Add Another Test</button>
+        <button id="calculate" class="btn-secondary">Calculate Credits</button>
+      </div>
+    </section>
+
+    <section id="results-section" class="card" style="display:none;">
+      <h2 id="results-title">Your UW Course Credits</h2>
+      <div id="summary" class="summary-box"></div>
+      
+      <div class="table-container">
+        <table id="courses-table">
+          <thead>
+            <tr>
+              <th>Course Code</th>
+              <th>Course Name</th>
+              <th>Credits</th>
+              <th>From AP Exam</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="notes card" id="notes-section">
+      <h3>Important Notes</h3>
+      <ul id="notes-list">
+        <li>This calculator is unofficial, although it has accurate information for the 2025-2026 application season. Always verify with the <a href="https://admit.washington.edu/apply/transfer/exams-for-credit/ap/" target="_blank">official UW AP equivalency table</a>.</li>
+        <li>If multiple AP exams grant the same course, only the highest credit value is counted (no duplicates).</li>
+        <li>Minimum scores are shown in parentheses for each exam.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="uw-footer">
+    <p>Unofficial tool • Always verify data with official university sources • Made with ☕ for students</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

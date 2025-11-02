@@ -1,0 +1,237 @@
+[
+  {
+    "exam": "African American Studies",
+    "minScore": 3,
+    "courses": [{"code": "ELECTIVE", "name": "African American Studies (Elective)", "credits": 4}],
+    "requirement": "",
+    "note": "Available after May 2025. Credits shown are quarter units."
+  },
+  {
+    "exam": "Art History",
+    "minScore": 3,
+    "courses": [{"code": "ART HIST", "name": "Art History (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Biology",
+    "minScore": 3,
+    "courses": [{"code": "BIOLOGY", "name": "Biology (Elective)", "credits": 8}],
+    "requirement": "UC-S"
+  },
+  {
+    "exam": "Calculus AB",
+    "minScore": 3,
+    "courses": [{"code": "CALC AB", "name": "Calculus AB (Elective)", "credits": 4}],
+    "requirement": "UC-M",
+    "note": "Maximum 8 quarter units for both Calculus AB and BC combined."
+  },
+  {
+    "exam": "Calculus BC",
+    "minScore": 3,
+    "courses": [{"code": "CALC BC", "name": "Calculus BC (Elective)", "credits": 8}],
+    "requirement": "UC-M",
+    "note": "Maximum 8 quarter units for both Calculus AB and BC combined. AB subscore of 3+ on BC exam earns 4 quarter units even if BC score is below 3."
+  },
+  {
+    "exam": "Chemistry",
+    "minScore": 3,
+    "courses": [{"code": "CHEMISTRY", "name": "Chemistry (Elective)", "credits": 8}],
+    "requirement": "UC-S"
+  },
+  {
+    "exam": "Chinese Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "CHINESE", "name": "Chinese Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Comparative Government and Politics",
+    "minScore": 3,
+    "courses": [{"code": "GOV POL COMP", "name": "Comparative Government and Politics (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "Computer Science A",
+    "minScore": 3,
+    "courses": [{"code": "COMP SCI A", "name": "Computer Science A (Elective)", "credits": 8}],
+    "requirement": ""
+  },
+  {
+    "exam": "Computer Science Principles",
+    "minScore": 3,
+    "courses": [{"code": "COMP SCI P", "name": "Computer Science Principles (Elective)", "credits": 8}],
+    "requirement": ""
+  },
+  {
+    "exam": "English Language and Composition",
+    "minScore": 3,
+    "courses": [{"code": "ENGL LANG", "name": "English Language and Composition (Elective)", "credits": 8}],
+    "requirement": "UC-E",
+    "note": "Maximum 8 quarter units for both English exams combined. Only one English exam may satisfy transfer admission requirements."
+  },
+  {
+    "exam": "English Literature and Composition",
+    "minScore": 3,
+    "courses": [{"code": "ENGL LIT", "name": "English Literature and Composition (Elective)", "credits": 8}],
+    "requirement": "UC-E/H",
+    "note": "Maximum 8 quarter units for both English exams combined. Only one English exam may satisfy transfer admission requirements."
+  },
+  {
+    "exam": "Environmental Science",
+    "minScore": 3,
+    "courses": [{"code": "ENVIRON SCI", "name": "Environmental Science (Elective)", "credits": 4}],
+    "requirement": "UC-S"
+  },
+  {
+    "exam": "European History",
+    "minScore": 3,
+    "courses": [{"code": "HIST EUR", "name": "European History (Elective)", "credits": 8}],
+    "requirement": "UC-B/H"
+  },
+  {
+    "exam": "French Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "FRENCH", "name": "French Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "German Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "GERMAN", "name": "German Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Human Geography",
+    "minScore": 3,
+    "courses": [{"code": "HUM GEO", "name": "Human Geography (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "Italian Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "ITALIAN", "name": "Italian Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Japanese Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "JAPANESE", "name": "Japanese Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Latin",
+    "minScore": 3,
+    "courses": [{"code": "LATIN", "name": "Latin (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Macroeconomics",
+    "minScore": 3,
+    "courses": [{"code": "ECON MACRO", "name": "Macroeconomics (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "Microeconomics",
+    "minScore": 3,
+    "courses": [{"code": "ECON MICRO", "name": "Microeconomics (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "Music Theory",
+    "minScore": 3,
+    "courses": [{"code": "MUSIC THRY", "name": "Music Theory (Elective)", "credits": 8}],
+    "requirement": "UC-H",
+    "note": "Credit only granted for the full Music Theory exam, not for subscores."
+  },
+  {
+    "exam": "Physics 1",
+    "minScore": 3,
+    "courses": [{"code": "PHYSICS 1", "name": "Physics 1 (Elective)", "credits": 8}],
+    "requirement": "UC-S",
+    "note": "Maximum 8 quarter units for all Physics exams combined."
+  },
+  {
+    "exam": "Physics 2",
+    "minScore": 3,
+    "courses": [{"code": "PHYSICS 2", "name": "Physics 2 (Elective)", "credits": 8}],
+    "requirement": "UC-S",
+    "note": "Maximum 8 quarter units for all Physics exams combined."
+  },
+  {
+    "exam": "Physics C: Electricity and Magnetism",
+    "minScore": 3,
+    "courses": [{"code": "PHYSICS C E&M", "name": "Physics C: Electricity and Magnetism (Elective)", "credits": 4}],
+    "requirement": "UC-S",
+    "note": "Maximum 8 quarter units for all Physics exams combined."
+  },
+  {
+    "exam": "Physics C: Mechanics",
+    "minScore": 3,
+    "courses": [{"code": "PHYSICS C MECH", "name": "Physics C: Mechanics (Elective)", "credits": 4}],
+    "requirement": "UC-S",
+    "note": "Maximum 8 quarter units for all Physics exams combined."
+  },
+  {
+    "exam": "Psychology",
+    "minScore": 3,
+    "courses": [{"code": "PSYCH", "name": "Psychology (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "Spanish Language and Culture",
+    "minScore": 3,
+    "courses": [{"code": "SPANISH LANG", "name": "Spanish Language and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Spanish Literature and Culture",
+    "minScore": 3,
+    "courses": [{"code": "SPANISH LIT", "name": "Spanish Literature and Culture (Elective)", "credits": 8}],
+    "requirement": "UC-H"
+  },
+  {
+    "exam": "Statistics",
+    "minScore": 3,
+    "courses": [{"code": "STATS", "name": "Statistics (Elective)", "credits": 4}],
+    "requirement": "UC-M"
+  },
+  {
+    "exam": "United States Government and Politics",
+    "minScore": 3,
+    "courses": [{"code": "GOV POL US", "name": "United States Government and Politics (Elective)", "credits": 4}],
+    "requirement": "UC-B"
+  },
+  {
+    "exam": "United States History",
+    "minScore": 3,
+    "courses": [{"code": "HIST US", "name": "United States History (Elective)", "credits": 8}],
+    "requirement": "UC-B/H"
+  },
+  {
+    "exam": "World History: Modern",
+    "minScore": 3,
+    "courses": [{"code": "HIST WORLD", "name": "World History: Modern (Elective)", "credits": 8}],
+    "requirement": "UC-B/H"
+  },
+  {
+    "exam": "Art and Design: 2-D Art and Design",
+    "minScore": 3,
+    "courses": [{"code": "ART 2D", "name": "2-D Art and Design (Elective)", "credits": 8}],
+    "requirement": "",
+    "note": "Maximum 8 quarter units for all three Art and Design exams combined."
+  },
+  {
+    "exam": "Art and Design: 3-D Art and Design",
+    "minScore": 3,
+    "courses": [{"code": "ART 3D", "name": "3-D Art and Design (Elective)", "credits": 8}],
+    "requirement": "",
+    "note": "Maximum 8 quarter units for all three Art and Design exams combined."
+  },
+  {
+    "exam": "Art and Design: Drawing",
+    "minScore": 3,
+    "courses": [{"code": "ART DRAW", "name": "Drawing (Elective)", "credits": 8}],
+    "requirement": "",
+    "note": "Maximum 8 quarter units for all three Art and Design exams combined."
+  }
+]
